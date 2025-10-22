@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 st.write("Hello")
-st.title("My Streamlit Application")
+st.title("Science App for Data Analysis and Visualization")
 
 uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
 
